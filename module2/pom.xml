@@ -1,0 +1,14 @@
+<project>
+	<modelVersion>4.0.0</modelVersion>
+
+	<parent>
+		<groupId>com.storrvik</groupId>
+		<artifactId>root</artifactId>
+		<version>1.0-SNAPSHOT</version>
+	</parent>
+		
+	<groupId>com.storrvik</groupId>
+	<artifactId>module1</artifactId>
+		<version>1.0-SNAPSHOT</version>
+
+</project>
